@@ -1,0 +1,5 @@
+﻿It makes the most sense to perform various value checks before performing an action, so a condition check should be performed before changing the value. 
+If the condition is met, the value (s) is changed, if not, an error message is displayed.
+
+Also, if a critical section is violated, then the system should raise an alarm to inform the system user of possible failures or that a user action 
+is required.

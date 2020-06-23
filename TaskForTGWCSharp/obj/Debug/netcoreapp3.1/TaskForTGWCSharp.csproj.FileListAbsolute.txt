@@ -1,0 +1,13 @@
+C:\Users\Mindaugas\Desktop\TaskForTGWCSharp\TaskForTGWCSharp\bin\Debug\netcoreapp3.1\TaskForTGWCSharp.exe
+C:\Users\Mindaugas\Desktop\TaskForTGWCSharp\TaskForTGWCSharp\bin\Debug\netcoreapp3.1\TaskForTGWCSharp.deps.json
+C:\Users\Mindaugas\Desktop\TaskForTGWCSharp\TaskForTGWCSharp\bin\Debug\netcoreapp3.1\TaskForTGWCSharp.runtimeconfig.json
+C:\Users\Mindaugas\Desktop\TaskForTGWCSharp\TaskForTGWCSharp\bin\Debug\netcoreapp3.1\TaskForTGWCSharp.runtimeconfig.dev.json
+C:\Users\Mindaugas\Desktop\TaskForTGWCSharp\TaskForTGWCSharp\bin\Debug\netcoreapp3.1\TaskForTGWCSharp.dll
+C:\Users\Mindaugas\Desktop\TaskForTGWCSharp\TaskForTGWCSharp\bin\Debug\netcoreapp3.1\TaskForTGWCSharp.pdb
+C:\Users\Mindaugas\Desktop\TaskForTGWCSharp\TaskForTGWCSharp\obj\Debug\netcoreapp3.1\TaskForTGWCSharp.csprojAssemblyReference.cache
+C:\Users\Mindaugas\Desktop\TaskForTGWCSharp\TaskForTGWCSharp\obj\Debug\netcoreapp3.1\TaskForTGWCSharp.AssemblyInfoInputs.cache
+C:\Users\Mindaugas\Desktop\TaskForTGWCSharp\TaskForTGWCSharp\obj\Debug\netcoreapp3.1\TaskForTGWCSharp.AssemblyInfo.cs
+C:\Users\Mindaugas\Desktop\TaskForTGWCSharp\TaskForTGWCSharp\obj\Debug\netcoreapp3.1\TaskForTGWCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Mindaugas\Desktop\TaskForTGWCSharp\TaskForTGWCSharp\obj\Debug\netcoreapp3.1\TaskForTGWCSharp.dll
+C:\Users\Mindaugas\Desktop\TaskForTGWCSharp\TaskForTGWCSharp\obj\Debug\netcoreapp3.1\TaskForTGWCSharp.pdb
+C:\Users\Mindaugas\Desktop\TaskForTGWCSharp\TaskForTGWCSharp\obj\Debug\netcoreapp3.1\TaskForTGWCSharp.genruntimeconfig.cache
